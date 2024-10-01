@@ -1,1 +1,1 @@
-# -Taskly-Smart-To-Do-List-
+"TaskMaster: A To-Do List Application" is a simple and interactive web-based tool that helps users manage their daily tasks. Users can add new tasks, set deadlines, and assign priority levels to better organize their to-do items. Tasks can be marked as completed or deleted once finished, and all tasks are saved automatically, even if you close the browser. The app is designed to be intuitive, making it easy for anyone to stay organized and be more productive in their daily life.
